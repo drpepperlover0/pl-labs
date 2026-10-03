@@ -5,4 +5,4 @@ print(f'\nПервая аудитория: [{first_room}] | Вторая ауд�
 t = first_room
 first_room = second_room
 second_room = t
-print(f'Первая аудитория: [{first_room}] | Вторая аудитория: [{second_room}]')
+print(f'Первая аудитория: {first_room} | Вторая аудитория: {second_room}')
