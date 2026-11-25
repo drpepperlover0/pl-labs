@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Бункер",
+    "category": "командные",
+    "amount": 6,
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Манчкин",
+    "category": "карточные",
+    "amount": 4,
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Колонизаторы",
+    "category": "стратегии",
+    "amount": 3,
+    "completed": true
+  },
+  {
+    "id": 4,
+    "title": "Мафия",
+    "category": "командные",
+    "amount": 8,
+    "completed": false
+  }
+]
